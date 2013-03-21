@@ -1,4 +1,6 @@
-502studios.github.com
-=====================
+blog.502studios.net
+=============
 
-502 Studios Blog
+Jekyll Source for the blog, 
+
+thanks to [uber robert](http://uberobert.com) for the source! :3.
