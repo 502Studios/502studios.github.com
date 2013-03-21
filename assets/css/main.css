@@ -50,6 +50,7 @@ body {
     font-size: 13px;
     line-height: 18px;
     color: #a2a2a2;
+    background-image:url('/header-bg.jpg');
 }
 
 .hero-unit p {
@@ -81,10 +82,12 @@ body {
 
 .well {
     padding: 10px;
+    color: #fff;
+    background-image:url('/header-bg.jpg');
 }
 
 .hero-unit #twitter-status .icon-twitter {
-    color: #08C;
+    color: #fff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
     width: auto;
     height: 70px;
@@ -170,6 +173,7 @@ body.home .post {
 
 .post h2 a {
     display:block;
+    color:#005580;
 }
 
 .post h2 a:hover i {
@@ -240,6 +244,7 @@ ul.listless li {
 
 .post p {
     margin: 0 0 18px;
+    background-image: url('/background.png');
 }
 
 #page-archive ol {
