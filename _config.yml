@@ -1,7 +1,7 @@
 # Jekyll
 exclude: nbproject, README.md, manifest.yml, rakefile.rb, Gemfile, Gemfile.lock, update.sh
-permalink:   /:title
-url:         http://www.uberobert.com
+permalink:   date
+url:         http://blog.502Studios.net
 
 safe:        false
 auto:        false
@@ -12,8 +12,15 @@ markdown:    rdiscount
 
 # Site
 uberobert:
-    title: Uberobert
+    title: 502 Studios
 
 # Only First P Plugin
 only_first_p:
-    show_read_more_link: false
+    show_read_more_link: true
+
+#analytics for the blog
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-39448178-1
+'
